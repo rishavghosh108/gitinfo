@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/22de9183-a1c9-4bae-a02b-506fd87be4d3/deploy-status)](https://app.netlify.com/sites/fyle-fontend-challenge/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/57c10102-b451-4528-87f1-12829bb51801/deploy-status)](https://app.netlify.com/sites/gitinformation/deploys)
 
 GitHub Repository Finder is a professional, user-friendly Angular application designed to help you effortlessly locate and explore GitHub repositories by simply entering a username. This tool is ideal for developers, recruiters, and anyone interested in viewing a GitHub user's project contributions in a centralized and accessible format.
 
